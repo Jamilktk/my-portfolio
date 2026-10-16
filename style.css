@@ -407,15 +407,27 @@ h2 {
 }
 
 .project-image-1 {
-  background: linear-gradient(135deg, #2dd4bf, #0ea5e9);
+  background-image: url("imageshealthcare.jpg");
 }
 
 .project-image-2 {
-  background: linear-gradient(135deg, #818cf8, #22d3ee);
+  background-image: url("imageshr-portal.jpg");
 }
 
 .project-image-3 {
-  background: linear-gradient(135deg, #34d399, #fbbf24);
+  background-image: url("imageserp-system.jpg");
+}
+
+.project-image-4 {
+  background-image: url("imagesai-model.jpg");
+}
+
+.project-image-5 {
+  background-image: url("imagesai-pipeline.jpg");
+}
+
+.project-image-6 {
+  background-image: url("imagesinfrastructure.jpg");
 }
 
 .project-body {
